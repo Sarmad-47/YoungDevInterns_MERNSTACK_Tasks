@@ -6,11 +6,13 @@ In order to run this project follow these steps:
 4. In order to run server side:
    
    npm install
+   
    nodemon index.js
    
 6. In order to run client side:
    
    npm install --legacy-peer-deps
+   
    npm start
    
 8. Both client and server side should be working fine.
